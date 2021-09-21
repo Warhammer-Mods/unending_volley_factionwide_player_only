@@ -1,0 +1,3 @@
+unit_set_unit_ability_junctions_tables	0
+key	unit_set	unit_ability
+mod_unending_volley_ranged_units	all_units_excluding_melee	wh2_dlc15_unit_abilities_unending_volley

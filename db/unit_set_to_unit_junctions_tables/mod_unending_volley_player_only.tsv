@@ -1,0 +1,15 @@
+unit_set_to_unit_junctions_tables	0
+unit_set	unit_record	unit_caste	unit_category	unit_class	exclude
+all_units_excluding_melee				art_fix	false
+all_units_excluding_melee				art_fld	false
+all_units_excluding_melee				art_siege	false
+all_units_excluding_melee				cav_mis	false
+all_units_excluding_melee				cav_shk	false
+all_units_excluding_melee				chariot	false
+all_units_excluding_melee				com	false
+all_units_excluding_melee				elph	false
+all_units_excluding_melee				inf_mis	false
+all_units_excluding_melee				shp_art	false
+all_units_excluding_melee				shp_mis	false
+all_units_excluding_melee				shp_trn	false
+all_units_excluding_melee				spcl	false

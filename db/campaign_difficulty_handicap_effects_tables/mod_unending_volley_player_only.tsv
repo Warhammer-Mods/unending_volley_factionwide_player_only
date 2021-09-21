@@ -1,0 +1,9 @@
+campaign_difficulty_handicap_effects_tables	0
+campaign_difficulty_handicap	human	effect	effect_value	optional_campaign_key	effect_scope
+3	true	mod_unending_volley	1.0		faction_to_force_own
+2	true	mod_unending_volley	1.0		faction_to_force_own
+1	true	mod_unending_volley	1.0		faction_to_force_own
+0	true	mod_unending_volley	1.0		faction_to_force_own
+-1	true	mod_unending_volley	1.0		faction_to_force_own
+-2	true	mod_unending_volley	1.0		faction_to_force_own
+-3	true	mod_unending_volley	1.0		faction_to_force_own
