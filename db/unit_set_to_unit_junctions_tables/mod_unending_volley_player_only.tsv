@@ -1,5 +1,5 @@
-unit_set_to_unit_junctions_tables	0
 unit_set	unit_record	unit_caste	unit_category	unit_class	exclude
+#unit_set_to_unit_junctions_tables	0	db/unit_set_to_unit_junctions_tables/mod_unending_volley_player_only
 all_units_excluding_melee				art_fix	false
 all_units_excluding_melee				art_fld	false
 all_units_excluding_melee				art_siege	false
