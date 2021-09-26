@@ -1,6 +1,6 @@
 # Unending Volley Player Only
 
-![Unending Volley Player Only Steam Workhop Logo](.github/unending_volley_factionwide_player_only.png)
+![Unending Volley Player Only Steam Workhop Logo](assets/steam_workshop_logo.png)
 
 An alternative to [Endless Drums Player Only](https://steamcommunity.com/sharedfiles/filedetails/?id=2448286371), the mod enables Unending Volley ability that restores unit ammunition for all ranged player units in game (heroes and lords as well).
 
