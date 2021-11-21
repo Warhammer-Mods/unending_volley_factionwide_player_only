@@ -1,5 +1,4 @@
 # Disable git line endings management
 * -text
 
-/.vscode/** linguist-vendored
 /.luacheckrc linguist-generated=true
